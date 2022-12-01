@@ -7,4 +7,3 @@ for (line = 0; line < nmr; line += 1) {
     }
     console.log(char);
 }
-console.log();
