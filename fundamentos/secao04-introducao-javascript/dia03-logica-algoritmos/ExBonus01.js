@@ -1,8 +1,8 @@
-let nmr = 10;
+let nmr = 3;
 
-for (let index = 0; index < nmr; index += 1) {   
+for (line = 0; line < nmr; line += 1) {   
     let char = '';
-    for (let index = 1; index <= nmr; index += 1){
+    for (column = 0; column < nmr; column += 1){
         char = char + "*";
     }
     console.log(char);
