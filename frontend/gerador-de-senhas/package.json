@@ -1,0 +1,21 @@
+{
+  "name": "gerador-de-senhas",
+  "version": "1.0.0",
+  "description": "Melhor gerador de senhas de todos os tempos",
+  "main": "index.js",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.8.3",
+    "clipboard-copy": "^4.0.1",
+    "nanoid": "^4.0.1",
+    "vite": "^4.2.1"
+  },
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
